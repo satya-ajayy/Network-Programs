@@ -15,14 +15,22 @@ To run these programs, you need:
 - **Python 3.x**: Make sure Python 3.x is installed on your machine.
 - **Network Access**: Ensure that the machines involved are connected to the same network or can reach each other over the internet.
 
-### Installing Python 3.x
-
-You can download and install Python from the official Python website: [Python Downloads](https://www.python.org/downloads/).
-
 ## Running the Programs
 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/ajay-verse/Network-Programs.git
+   cd Network-Programs
+   ```
+2. **Run the Server**:
+
+First, run any server program to start server.
+```bash
+python3 server_program.py
+```
+3. ****:
+On the same machine or a different one execute the client program to interact with server.
+```bash
+python3 client_program.py
+```
