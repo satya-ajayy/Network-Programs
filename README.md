@@ -29,7 +29,7 @@ First, run any server program to start server.
 ```bash
 python3 server_program.py
 ```
-3. ****:
+3. **Run the Client**:
 On the same machine or a different one execute the client program to interact with server.
 ```bash
 python3 client_program.py
