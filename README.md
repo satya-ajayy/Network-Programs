@@ -18,19 +18,16 @@ To run these programs, you need:
 ## Running the Programs
 
 1. **Clone the Repository**:
-
    ```bash
    git clone https://github.com/ajay-verse/Network-Programs.git
    cd Network-Programs
    ```
-2. **Run the Server**:
-
+3. **Run the Server**:
 First, run any server program to start server.
    ```bash
    python3 server_program.py
    ```
-3. **Run the Client**:
-
+4. **Run the Client**:
 On the same machine or a different one execute the client program to interact with server.
    ```bash
    python3 client_program.py
