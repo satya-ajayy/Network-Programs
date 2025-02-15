@@ -19,7 +19,7 @@ To run these programs, you need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ajay-verse/Network-Programs.git
+   git clone https://github.com/satya-ajayy/Network-Programs.git
    cd Network-Programs
    ```
 3. **Run the Server**:
